@@ -5,3 +5,5 @@ if __name__ == "__main__":
     user_name = "World"
     message = greet(user_name)
     print(message)
+
+print("This is a simple greeting program.")
