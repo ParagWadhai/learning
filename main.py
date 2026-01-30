@@ -6,4 +6,4 @@ if __name__ == "__main__":
     message = greet(user_name)
     print(message)
 
-print("This is a simple greeting program.")
+print("It is a simple greeting program.")
