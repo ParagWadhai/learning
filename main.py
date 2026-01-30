@@ -7,3 +7,4 @@ if __name__ == "__main__":
     print(message)
 
 print("It is a simple greeting program.")
+print("You can customize the greeting by changing the 'user_name' variable.")
